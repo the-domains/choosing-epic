@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Choosing Epic]]></title>
+        <description><![CDATA[Choosing Epic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 19:38:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learning to Say No]]></title>
+            <description><![CDATA[<article><h1>Learning to Say No</h1><p>People think focus means saying yes to the thing you've got to focus on. But that's not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I'm actually as proud of the things we haven't done as the things I have done. Innovation is saying no to 1,000 things.</p></article>]]></description>
+            <link>undefinedlearning-to-say-no/index.html</link>
+            <guid isPermaLink="false">fd921fda-198e-4d6a-a797-700f42e67391</guid>
+            <pubDate>Fri, 01 Apr 2016 19:38:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
